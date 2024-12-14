@@ -1,0 +1,8 @@
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.csproj.AssemblyReference.cache
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.AssemblyInfoInputs.cache
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.AssemblyInfo.cs
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.csproj.CoreCompileInputs.cache
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\flipy\OneDrive\Documents\GitHub\portfolio\Dotnet-Backend-Template\DotNetAPITemplate\obj\Debug\net8.0\DotNetAPITemplate.sourcelink.json
