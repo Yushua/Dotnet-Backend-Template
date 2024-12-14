@@ -1,0 +1,23 @@
+.NET 9 introduces several new security enhancements designed to strengthen your backend applications:
+
+Cryptography Upgrades: .NET 9 brings improvements to its cryptography libraries, making them more robust and secure. These enhancements help developers build applications with stronger encryption and better protection against security threats​
+DEV COMMUNITY
+​
+TTMIND
+.
+
+PAR (Pre-Authenticated Requests): This new feature adds an extra layer of security to APIs by ensuring that only authenticated requests are allowed to access sensitive resources. This is particularly useful in preventing unauthorized access​
+DEV COMMUNITY
+.
+
+Improved Authentication and Authorization APIs: .NET 9 has introduced new and enhanced APIs for handling authentication and authorization, making it easier to secure your web applications and APIs​
+MICROSOFT LEARN
+​
+TTMIND
+.
+
+Stronger Default Security in ASP.NET Core: ASP.NET Core in .NET 9 includes improved security mechanisms, ensuring that applications are secure by default. This includes better handling of static assets and enhanced features for monitoring and tracing application activity, which can help detect potential security issues​
+MICROSOFT LEARN
+.
+
+These updates are geared toward improving the overall security of your applications, reducing the risk of unauthorized access, and ensuring that sensitive data is better protected. For more detailed information, you can explore the official Microsoft Learn and other resources

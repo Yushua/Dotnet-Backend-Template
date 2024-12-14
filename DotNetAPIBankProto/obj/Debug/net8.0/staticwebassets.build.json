@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G4g4o+IZcBKFgbzMXQIboYfyMdoKi0heGk1IcshQvd8=",
+  "Source": "DotNetAPIBankProto",
+  "BasePath": "_content/DotNetAPIBankProto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

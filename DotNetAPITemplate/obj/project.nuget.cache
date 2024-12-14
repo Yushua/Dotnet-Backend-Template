@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ADqq4BJDS+E=",
+  "dgSpecHash": "hKyd1otn4zY=",
   "success": true,
   "projectFilePath": "C:\\Users\\flipy\\OneDrive\\Documents\\GitHub\\portfolio\\Dotnet-Backend-Template\\DotNetAPITemplate\\DotNetAPITemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flipy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\flipy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
-    "C:\\Users\\flipy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\flipy\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
     "C:\\Users\\flipy\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
     "C:\\Users\\flipy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
